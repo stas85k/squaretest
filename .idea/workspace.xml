@@ -50,8 +50,8 @@
       <file leaf-file-name="SquareTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="331">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,24 +62,25 @@
       <file leaf-file-name="SquareTestPrm1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="188">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1477#1487#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SquareTestPrm2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SquareTestPrm2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="124">
+              <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1466#1476#0" expanded="true" />
+                <element signature="e#1617#1627#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/ru/apackage/task.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="69">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,10 +123,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,12 +176,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/libs/square.jar!/ru/socialquantum/testtasks/SquareFactory.java" />
-        <option value="$PROJECT_DIR$/tests/ru/apackage/task.txt" />
         <option value="$PROJECT_DIR$/libs/square.jar!/ru/socialquantum/testtasks/SquareI.class" />
         <option value="$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm.java" />
         <option value="$PROJECT_DIR$/tests/ru/apackage/SquareTest.java" />
-        <option value="$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm1.java" />
         <option value="$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm2.java" />
+        <option value="$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm1.java" />
+        <option value="$PROJECT_DIR$/tests/ru/apackage/task.txt" />
       </list>
     </option>
   </component>
@@ -746,38 +744,52 @@
       <option name="project" value="LOCAL" />
       <updated>1499193683209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="square methods Unit parameterized tests">
+      <created>1499193728818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1499193728818</updated>
+    </task>
+    <task id="LOCAL-00005" summary="parameterized tests were used&#10;new comments were made">
+      <created>1499205449778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1499205449778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SquareTest - 2017.07.04 at 21h 28m 16s.xml">
-      <configuration name="SquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SquareTest - 2017.07.04 at 21h 28m 28s.xml">
-      <configuration name="SquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SquareTest - 2017.07.04 at 21h 28m 47s.xml">
-      <configuration name="SquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SquareTest - 2017.07.04 at 21h 28m 56s.xml">
-      <configuration name="SquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SquareTest - 2017.07.04 at 21h 29m 38s.xml">
-      <configuration name="SquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SquareTestPrm1 - 2017.07.04 at 21h 38m 33s.xml">
+    <history-entry file="SquareTestPrm1 - 2017.07.04 at 23h 31m 55s.xml">
       <configuration name="SquareTestPrm1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SquareTestPrm2 - 2017.07.04 at 21h 30m 13s.xml">
+    <history-entry file="SquareTestPrm1 - 2017.07.04 at 23h 34m 02s.xml">
+      <configuration name="SquareTestPrm1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTestPrm1 - 2017.07.04 at 23h 40m 14s.xml">
+      <configuration name="SquareTestPrm1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTestPrm1 - 2017.07.04 at 23h 42m 48s.xml">
+      <configuration name="SquareTestPrm1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTestPrm1 - 2017.07.04 at 23h 51m 51s.xml">
+      <configuration name="SquareTestPrm1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTestPrm2 - 2017.07.04 at 23h 10m 10s.xml">
       <configuration name="SquareTestPrm2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SquareTestPrm2 - 2017.07.04 at 21h 36m 26s.xml">
+    <history-entry file="SquareTestPrm2 - 2017.07.04 at 23h 10m 56s.xml">
       <configuration name="SquareTestPrm2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SquareTestPrm2 - 2017.07.04 at 21h 37m 54s.xml">
+    <history-entry file="SquareTestPrm2 - 2017.07.04 at 23h 31m 47s.xml">
       <configuration name="SquareTestPrm2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SquareTestPrm2 - 2017.07.04 at 21h 38m 21s.xml">
+    <history-entry file="SquareTestPrm2 - 2017.07.04 at 23h 43m 08s.xml">
+      <configuration name="SquareTestPrm2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SquareTestPrm2 - 2017.07.04 at 23h 51m 24s.xml">
       <configuration name="SquareTestPrm2" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -833,7 +845,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="square methods test" />
     <MESSAGE value="square methods Unit tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="square methods Unit tests" />
+    <MESSAGE value="square methods Unit parameterized tests" />
+    <MESSAGE value="parameterized tests were used&#10;new comments were made" />
+    <option name="LAST_COMMIT_MESSAGE" value="parameterized tests were used&#10;new comments were made" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -880,10 +894,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -927,10 +938,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -974,10 +982,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,10 +1026,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,10 +1070,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,14 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/libs/square.jar!/ru/socialquantum/testtasks/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1113,10 +1104,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,16 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/libs/junit-4.12-sources.jar!/junit/framework/TestCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1158,25 +1136,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm1.java">
+    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="124">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1477#1487#0" expanded="true" />
+            <element signature="e#1617#1627#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm2.java">
+    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTestPrm1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="188">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1466#1476#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
