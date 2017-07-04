@@ -24,7 +24,7 @@ public class SquareTest {
         //double a = 0.1;
         //double a = 1;
         //double a =  1 + 1.0E-15;
-        //double a = 9 + 1.0E-14;
+        double a = 9 + 1.0E-15;
         //double a = 10;
         //double a =  10 + 1.0E-14;
         //double a = 15;
@@ -33,7 +33,7 @@ public class SquareTest {
         //double a = 20 + 1E-14;
         //double a = 25;
         //double a = 30 - 1.0E-14;
-        double a = 30;
+        //double a = 30;
         //double a = 1E17;
         //double a = MAX_VALUE;
 
