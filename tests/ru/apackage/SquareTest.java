@@ -25,7 +25,7 @@ public class SquareTest {
         //double a = 1;
         //double a =  1 + 1.0E-15;
         //double a = 9 + 1.0E-14;
-        double a = 10;
+        //double a = 10;
         //double a =  10 + 1.0E-14;
         //double a = 15;
         //double a = 20 - 1.0E-14;
@@ -33,16 +33,16 @@ public class SquareTest {
         //double a = 20 + 1E-14;
         //double a = 25;
         //double a = 30 - 1.0E-14;
-        //double a = 30;
+        double a = 30;
         //double a = 1E17;
         //double a = MAX_VALUE;
 
-        //for (int i = 0; i < 1000000; i++) {
+        //for (int i = 0; i < 100000; i++) {
         Square square = SquareFactory.newSquare(a);
         //assertNotEquals(a, square.sideLength(), 0);
         assertEquals(a, square.sideLength(), 0);
-        //System.out.println("t1 sideLengthEx " + a);
-        //System.out.println("t1 sideLengthAc " + square.sideLength());
+        System.out.println("t1 sideEx  " + a);
+        System.out.println("t1 sideAc  " + square.sideLength());
         //a -= 0.000001;
         //}
     }
@@ -69,22 +69,22 @@ public class SquareTest {
         //double b = 1E17;
         //double b = MAX_VALUE;
         Square square = SquareFactory.newSquare(b);
-        //System.out.println("t2 " + square.square());
+        System.out.println("t2 squareAc  " + square.square());
         assertEquals(pow(b,2), square.square(), 0);
     }
 
     @Test     //Проверка метода, проверяющего равны ли квадраты по площадям.
     public void test3() {
-        double c1 = -30;
-        double c2 = 30;
+        double c1 = 30;
+        double c2 = -30;
 
         Square square0 = SquareFactory.newSquare(c1);
         Square square1 = SquareFactory.newSquare(c2);
         assertTrue(square0.equalsSquare(square1));
         //assertFalse(square0.equalsSquare(square1));
-        System.out.println("t3 " + square0.square());
-        System.out.println("t3 " + square1.square());
-        System.out.println(square0.equalsSquare(square1));
+        System.out.println("t3 sqr1  " + square0.square());
+        System.out.println("t3 sqr2  " + square1.square());
+        System.out.println("t3 sqrEqu  " + square0.equalsSquare(square1));
 
     }
 
